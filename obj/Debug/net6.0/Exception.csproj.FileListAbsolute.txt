@@ -1,0 +1,15 @@
+C:\Users\harsh jangid\Desktop\.Net\Exception\bin\Debug\net6.0\Exception.exe
+C:\Users\harsh jangid\Desktop\.Net\Exception\bin\Debug\net6.0\Exception.deps.json
+C:\Users\harsh jangid\Desktop\.Net\Exception\bin\Debug\net6.0\Exception.runtimeconfig.json
+C:\Users\harsh jangid\Desktop\.Net\Exception\bin\Debug\net6.0\Exception.dll
+C:\Users\harsh jangid\Desktop\.Net\Exception\bin\Debug\net6.0\ref\Exception.dll
+C:\Users\harsh jangid\Desktop\.Net\Exception\bin\Debug\net6.0\Exception.pdb
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\Exception.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\Exception.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\Exception.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\Exception.dll
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\ref\Exception.dll
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\Exception.pdb
+C:\Users\harsh jangid\Desktop\.Net\Exception\obj\Debug\net6.0\Exception.genruntimeconfig.cache
